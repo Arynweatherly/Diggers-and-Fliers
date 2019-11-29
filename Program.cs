@@ -25,6 +25,16 @@ namespace DiggersAndFliers
             var myTerrapins = new Animals.Terrapins();
             var myTimberRattlesnakes = new Animals.TimberRattlesnakes();
 
+            diggerRoom.Add(myAnts);
+            diggerRoom.Add(myEarthworms);
+            diggerRoom.Add(myTerrapins);
+
+            groundRoom.Add(myAnts);
+            groundRoom.Add(myEarthworms);
+            groundRoom.Add(my);
+            groundRoom.Add(myAnts);
+            groundRoom.Add(myAnts);
+
 
         }
     }
