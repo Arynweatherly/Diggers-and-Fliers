@@ -1,0 +1,11 @@
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.deps.json
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.runtimeconfig.json
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.runtimeconfig.dev.json
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.dll
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.pdb
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.csprojAssemblyReference.cache
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.AssemblyInfoInputs.cache
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.AssemblyInfo.cs
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.dll
+/Users/arynweatherly/workspace/csharp/exercises/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.pdb
