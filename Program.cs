@@ -31,9 +31,30 @@ namespace DiggersAndFliers
 
             groundRoom.Add(myAnts);
             groundRoom.Add(myEarthworms);
-            groundRoom.Add(my);
-            groundRoom.Add(myAnts);
-            groundRoom.Add(myAnts);
+            groundRoom.Add(myCopperheadSnakes);
+            groundRoom.Add(myGirbils);
+            groundRoom.Add(myMice);
+            groundRoom.Add(myTerrapins);
+            groundRoom.Add(myTimberRattlesnakes);
+
+            birdCage.Add(myFinches);
+            birdCage.Add(myParakeets);
+
+            pond.Add(myBettaFish);
+            pond.Add(myTerrapins);
+            pond.Add(myMice);
+
+            zoo.Add(myAnts);
+            zoo.Add(myBettaFish);
+            zoo.Add(myCopperheadSnakes);
+            zoo.Add(myEarthworms);
+            zoo.Add(myFinches);
+            zoo.Add(myGirbils);
+            zoo.Add(myMice);
+            zoo.Add(myParakeets);
+            zoo.Add(myTerrapins);
+            zoo.Add(myTimberRattlesnakes);
+
 
 
         }
