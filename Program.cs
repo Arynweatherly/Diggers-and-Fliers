@@ -55,6 +55,32 @@ namespace DiggersAndFliers
             zoo.Add(myTerrapins);
             zoo.Add(myTimberRattlesnakes);
 
+            foreach (var bird in birdCage)
+            {
+                bird.Fly();
+            }
+
+            foreach (var digger in diggerRoom)
+            {
+                digger.Dig();
+            }
+
+            foreach (var animal in groundRoom)
+            {
+                animal.Crawl();
+            }
+
+            foreach (var animal in pond)
+            {
+                animal.Swim();
+            }
+
+            foreach (var animal in zoo)
+            {
+                animal.CleanCage();
+            }
+
+
 
 
         }
