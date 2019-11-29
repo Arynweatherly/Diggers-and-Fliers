@@ -25,6 +25,63 @@ namespace DiggersAndFliers
             var myTerrapins = new Animals.Terrapins();
             var myTimberRattlesnakes = new Animals.TimberRattlesnakes();
 
+            diggerRoom.Add(myAnts);
+            diggerRoom.Add(myEarthworms);
+            diggerRoom.Add(myTerrapins);
+
+            groundRoom.Add(myAnts);
+            groundRoom.Add(myEarthworms);
+            groundRoom.Add(myCopperheadSnakes);
+            groundRoom.Add(myGirbils);
+            groundRoom.Add(myMice);
+            groundRoom.Add(myTerrapins);
+            groundRoom.Add(myTimberRattlesnakes);
+
+            birdCage.Add(myFinches);
+            birdCage.Add(myParakeets);
+
+            pond.Add(myBettaFish);
+            pond.Add(myTerrapins);
+            pond.Add(myMice);
+
+            zoo.Add(myAnts);
+            zoo.Add(myBettaFish);
+            zoo.Add(myCopperheadSnakes);
+            zoo.Add(myEarthworms);
+            zoo.Add(myFinches);
+            zoo.Add(myGirbils);
+            zoo.Add(myMice);
+            zoo.Add(myParakeets);
+            zoo.Add(myTerrapins);
+            zoo.Add(myTimberRattlesnakes);
+
+            foreach (var bird in birdCage)
+            {
+                bird.Fly();
+            }
+
+            foreach (var digger in diggerRoom)
+            {
+                digger.Dig();
+            }
+
+            foreach (var animal in groundRoom)
+            {
+                animal.Crawl();
+            }
+
+            foreach (var animal in pond)
+            {
+                animal.Swim();
+            }
+
+            foreach (var animal in zoo)
+            {
+                animal.CleanCage();
+            }
+
+
+
 
         }
     }
